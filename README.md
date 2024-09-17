@@ -44,10 +44,10 @@ The **Adaline** (Adaptive Linear Neuron) model uses gradient descent to minimize
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohammedobaidraza/Perceptron-and-Adaline-Models-Understanding-Linear-and-Non-Linear-Classification.git
-## Install the required libraries:
+2. Install the required libraries:
 pip install -r requirements.txt
 
-## Run the code: 
+3. Run the code: 
 python perceptron_adaline.py
 
 
