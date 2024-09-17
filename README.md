@@ -1,0 +1,2 @@
+# Perceptron-and-Adaline-Models-Understanding-Linear-and-Non-Linear-Classification
+This project demonstrates the implementation of two classic machine learning algorithms: Perceptron and Adaline, these algorithms are fundamental to understanding how linear classification models work and their behavior on different types of data, including both synthetic datasets and real-world datasets like the Titanic dataset from Kaggle
