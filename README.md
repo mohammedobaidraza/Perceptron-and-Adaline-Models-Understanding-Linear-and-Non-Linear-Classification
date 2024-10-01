@@ -7,7 +7,7 @@ This repository contains the implementation of Perceptron and Adaline machine le
   - [Perceptron](#perceptron)
   - [Adaline](#adaline)
 - [Results](#results)
-- [How to Run](#how-to-run)
+- [How to Run](#how-to-run).
 
 ## Project Overview
 In this project, two different machine learning models, **Perceptron** and **Adaline**, are implemented to solve classification tasks. The focus is on examining their behavior in both linearly separable and non-linearly separable data as well as a real-world dataset (Titanic). Visualizations are provided to illustrate model performance and decision boundaries.
