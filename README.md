@@ -1,4 +1,4 @@
-# Perceptron-and-Adaline-Models-Understanding-Linear-and-Non-Linear-Classification
+# Perceptron-and-Adaline-Models-Understanding-Linear-and-Non-Linear-Classification.
 This repository contains the implementation of Perceptron and Adaline machine learning models. These models are tested on both synthetic datasets (linearly and non-linearly separable data) and the Titanic dataset from Kaggle. The goal is to evaluate the performance of these models on different types of data and understand their strengths and limitations.
 ## Table of Contents
 - [Project Overview](#project-overview)
